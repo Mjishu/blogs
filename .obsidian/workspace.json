@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73dc32eb3d188581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One Project Every Week.md",
+                "file": "Week 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One Project Every Week.md",
+                "file": "Week 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One Project Every Week.md"
+                "file": "Week 0.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "61771745dcb1db4c",
+  "active": "73dc32eb3d188581",
   "lastOpenFiles": [
-    "Coding Ideas.md",
     "One Project Every Week.md",
+    "Week 0.md",
+    "Coding Ideas.md",
     "Templates/Blog-Template.md",
     "Untitled.md",
     "Templates"

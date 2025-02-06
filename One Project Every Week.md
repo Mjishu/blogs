@@ -8,3 +8,5 @@ I do not want to set too many hard limits on myself besides the fact of 1 projec
 and that's it! not a lot of requirements I am setting for myself. I just want to see what I can do within this time frame and I think that discovering what I want to do at each point in time is the wiser decision.
 
 So here we go! In this place I will write about my adventures and issues and we will see what happens in 1 year from now!
+
+[[Week 0]]
